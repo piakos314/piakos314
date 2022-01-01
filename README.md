@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @piakos314
-- 👀 I’m interested in Computational Physics
+- 👀 I’m a Physicist with a specialization in Particle (and Detector) Physics
 - 🌱 I’m currently learning Masters in Physics
-- 💞️ I’m looking to collaborate on implementation of ML on High Energy Physics
 
 <!---
 piakos314/piakos314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
