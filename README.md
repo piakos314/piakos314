@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piakos314
-- 👀 I’m a Physicist with a specialization in Particle (and Detector) Physics
+- 👀 I’m a Physicist with specialization in Particle (and Detector) Physics
 - 🌱 I’m currently learning Masters in Physics
 
 <!---
