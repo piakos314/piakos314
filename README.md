@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piakos314
 - 👀 I’m a Physicist with specialization in Particle (and Detector) Physics
-- 🌱 I’m currently learning Masters in Physics
+- 🌱 Athlumbleh
 
 <!---
 piakos314/piakos314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
